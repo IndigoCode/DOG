@@ -1,0 +1,8 @@
+require 'sinatra'
+
+get '/' do
+
+    'WHat is this'
+    
+    erb:index
+end 
